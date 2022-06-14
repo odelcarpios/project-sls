@@ -1,0 +1,5 @@
+{
+    "REGION": "us-west-2",
+    "STAGE": "dev",
+    "DYNAMODB_TABLE": "productsTable"
+}

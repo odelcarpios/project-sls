@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "serverless-offline": "^8.8.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "aws-sdk": "^2.1151.0"
+  }
+}
